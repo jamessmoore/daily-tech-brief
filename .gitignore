@@ -1,0 +1,15 @@
+# Environment — never commit secrets
+.env
+
+# Dependencies
+node_modules/
+mcp-servers/slack-poster/node_modules/
+
+# Runtime output (optional — remove if you want briefs in git history)
+# output/briefs/
+
+# Logs
+logs/*.log
+
+# OS
+.DS_Store
